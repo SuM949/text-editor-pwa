@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2022-05-17 at 21 07 14" src="https://user-images.githubusercontent.com/92344120/168912008-d98c5a37-2be9-45f4-b5dc-b19d2c61187b.png">
+
 <img width="1428" alt="service workers  " src="https://user-images.githubusercontent.com/92344120/168912484-41b7ea79-4dc8-4087-8389-e31d639fae37.png">
 <img width="1440" alt="jate" src="https://user-images.githubusercontent.com/92344120/168912502-e001b93b-12d0-4ac7-a404-f4158a1a1c64.png">
 
